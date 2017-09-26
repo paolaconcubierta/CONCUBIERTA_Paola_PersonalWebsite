@@ -1,11 +1,15 @@
 @font-face{
-font-family: DK Running Hipster.otf;
-src:url("fonts/DK Running Hipster.otf");
+font-family: Constance.ttf;
+src:url("fonts/Constance.ttf");
+}
 
+@font-face{
+	font-family: Beautiful Mess.ttf;
+	src:url("fonts/Beautiful Mess.ttf");
 }
 
 body{
-font-family:DK Running Hipster;
+font-family: Constance;
 overflow: auto;
 }
 
@@ -78,14 +82,16 @@ div.icons-3{
 }
 
 h1.about{
+	font-family: Beautiful Mess;
 	text-align: center;
-	font-size: 50px;
+	font-size: 70px;
 	margin-bottom: 20px;
 	margin-top:2px;
+	color: #645345;
 }
 
 p{
 	text-align: center;
-	font-size: 30px;
+	font-size: 20px;
 	color: #645345;
 }
