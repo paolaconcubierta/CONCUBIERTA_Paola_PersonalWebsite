@@ -39,3 +39,46 @@ div.img-p2{
 	top: 600px;
 
 }
+
+
+div.image-2{ 
+		position: absolute;
+		left: 200px;
+		top: 1030px;
+	}
+	
+div.image-4{ 
+		position: absolute;
+		left: 500px;
+		top: 900px;
+	}
+	
+div.image-5{ 
+		position: absolute;
+		left: 800px;
+		top: 1000px;	
+	}
+		
+div.img-p3{
+	width:400px;
+	position: absolute;
+	left: 490px;
+	text-align: justify;
+	top: 1300px;
+
+}
+
+div.image-6{ 
+		position: absolute;
+		left: 100px;
+		top: 1500px;	
+	}
+		
+div.img-p4{
+	width:600px;
+	position: absolute;
+	left: 590px;
+	text-align: justify;
+	top: 1595px;
+
+}
