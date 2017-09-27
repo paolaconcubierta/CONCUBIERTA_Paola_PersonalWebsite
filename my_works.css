@@ -1,0 +1,10 @@
+body{
+		font-family: Constance;
+		overflow: auto;
+		text-align: center;
+	}
+	
+	div.image-1{ 
+		position: absolute;
+		left: 100px;	
+	}
