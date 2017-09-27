@@ -102,6 +102,12 @@ p{
 
 p.num{margin:0;}
 
+div.me{
+	position: absolute;
+	left:640px;
+}
+
+
 footer{
 	text-align: center;
 	background-color:#cccccc;
