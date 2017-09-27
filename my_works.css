@@ -1,10 +1,41 @@
 body{
-		font-family: Constance;
+		font-family: corbel;
 		overflow: auto;
 		text-align: center;
 	}
 	
-	div.image-1{ 
+p.first{
+	font-size: 30px;
+}
+
+p{font-size: 20px;}
+	
+div.image-1{ 
 		position: absolute;
-		left: 100px;	
+		left: 200px;
+		top: 100px;
 	}
+
+div.img-p1{
+	width:400px;
+	position: absolute;
+	left: 470px;
+	text-align: justify;
+	top: 170px;
+
+}
+
+div.image-3{ 
+		position: absolute;
+		left: 730px;
+		top: 500px;
+	}
+
+div.img-p2{
+	width:400px;
+	position: absolute;
+	left: 290px;
+	text-align: justify;
+	top: 600px;
+
+}
