@@ -100,7 +100,10 @@ p{
 	color: #645345;
 }
 
+p.num{margin:0;}
+
 footer{
+	text-align: center;
 	background-color:#cccccc;
 	padding:20px;
 	margin: -10px;
