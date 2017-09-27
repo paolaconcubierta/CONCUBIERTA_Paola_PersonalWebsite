@@ -68,7 +68,7 @@ section.about{
 	height: 1200px;
 	padding:20px;
 	margin: -10px;
-	margin-bottom:0;
+	
 }
 a{
 	text-decoration:none;
@@ -101,5 +101,7 @@ p{
 }
 
 footer{
-	height:50px;
+	background-color:#cccccc;
+	padding:20px;
+	margin: -10px;
 }
