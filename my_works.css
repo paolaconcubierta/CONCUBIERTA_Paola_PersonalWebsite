@@ -10,6 +10,11 @@ p.first{
 
 p{font-size: 20px;}
 	
+div.home{
+	position: absolute;
+	left: 1200px;
+	top:10px;
+}
 div.image-1{ 
 		position: absolute;
 		left: 200px;

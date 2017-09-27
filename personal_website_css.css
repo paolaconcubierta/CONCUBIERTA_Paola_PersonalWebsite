@@ -59,9 +59,13 @@ div.exp{
 	margin-right: 30px;
 }
 
+div.ps{
+	text-align: center;
+}
+
 section.about{
 	background-color: #ffe6e6;
-	height: 1000px;
+	height: 1500px;
 	padding:20px;
 	margin: -10px;
 	margin-bottom:0;
