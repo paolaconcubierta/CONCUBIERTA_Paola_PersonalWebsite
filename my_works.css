@@ -6,6 +6,9 @@ body{
 	
 p.first{
 	font-size: 30px;
+	text-align: center;
+	border-bottom-style: solid;
+	border-bottom-color: black;
 }
 
 p{font-size: 20px;}
