@@ -9,6 +9,7 @@ p.first{
 	text-align: center;
 	border-bottom-style: solid;
 	border-bottom-color: black;
+	padding-bottom: 2px;
 }
 
 p{font-size: 20px;}
@@ -16,7 +17,7 @@ p{font-size: 20px;}
 div.home{
 	position: absolute;
 	left: 1200px;
-	top:10px;
+	top:23px;
 }
 div.image-1{ 
 		position: absolute;
