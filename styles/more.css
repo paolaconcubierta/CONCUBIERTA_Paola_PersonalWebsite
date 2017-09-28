@@ -55,14 +55,26 @@ div.girl-cat{
 	
 div.choc{
 	position: absolute;
-	left: 100px;
+	left: 95px;
+	top: 590px;
+	}
+	
+div.food{
+	position: absolute;
+	left: 150px;
+	top: 600px;
+	}
+	
+div.pizza{
+	position: absolute;
+	left: 10px;
 	top: 600px;
 	}
 	
 div.book{
 	position: absolute;
 	left: 400px;
-	top: 610px;
+	top: 640px;
 	}
 	
 div.woman{
