@@ -7,8 +7,44 @@ p.me{
 	top: 30px;
 	left:650px;
 	}
+
+h1{
+	margin-bottom: 50px;
+	border-bottom-style: solid;
+	border-bottom-color: black;
+	padding-bottom:10px;
+}
+
+p{
+	text-align: center;
+}
+
+div.home{
+	position: absolute;
+	left: 1100px;
+	top:20px;
+}
+
+div.works{
+	position: absolute;
+	left: 1150px;
+	top:20px;
+}
+
 div.image-1{
 	position: absolute;
+	left: 50px;
+	top: 150px;
+	}
+	
+div.image-2{
+	position: absolute;
+	left: 900px;
+	top: 240px;
+	}
+	
+div.image-3{
+	position: absolute;
 	left: 10px;
-	top: 90px;
+	top: 60px;
 	}
