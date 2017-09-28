@@ -107,6 +107,11 @@ div.me{
 	left:640px;
 }
 
+div.arrow{
+	position:absolute;
+	left: 720px;
+	top: 1510px;
+}
 
 footer{
 	text-align: center;
