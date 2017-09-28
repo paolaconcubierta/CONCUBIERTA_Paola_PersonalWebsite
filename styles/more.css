@@ -16,7 +16,13 @@ h1{
 }
 
 p{
-	text-align: center;
+	text-align: center; 
+}
+
+div.par{
+	width: 500px;
+	position: absolute;
+	left: 430px;
 }
 
 div.home{
