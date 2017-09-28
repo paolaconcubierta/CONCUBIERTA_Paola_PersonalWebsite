@@ -5,7 +5,7 @@ body{
 p.me{
 	position: absolute;
 	top: 30px;
-	left:650px;
+	left:640px;
 	}
 
 h1{
@@ -47,20 +47,44 @@ div.works{
 	top:20px;
 }
 
-div.image-1{
+div.girl-cat{
 	position: absolute;
 	left: 50px;
 	top: 150px;
 	}
 	
-div.image-2{
+div.choc{
 	position: absolute;
-	left: 900px;
-	top: 240px;
+	left: 100px;
+	top: 600px;
 	}
 	
-div.image-3{
+div.book{
+	position: absolute;
+	left: 400px;
+	top: 610px;
+	}
+	
+div.woman{
+	position: absolute;
+	left: 800px;
+	top: 300px;
+	}
+	
+div.bubble{
 	position: absolute;
 	left: 10px;
 	top: 60px;
+	}
+	
+div.pc{
+	position: absolute;
+	left: 940px;
+	top: 100px;
+	}
+	
+div.laptop{
+	position: absolute;
+	left: 1150px;
+	top: 150px;
 	}
