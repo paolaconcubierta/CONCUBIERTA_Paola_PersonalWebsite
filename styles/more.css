@@ -19,6 +19,16 @@ p{
 	text-align: center; 
 }
 
+a{
+	text-decoration:none;
+	color: #333333;
+}
+
+a:hover{
+	background-color: none;
+	color: #953333;
+}
+
 div.par{
 	width: 500px;
 	position: absolute;
