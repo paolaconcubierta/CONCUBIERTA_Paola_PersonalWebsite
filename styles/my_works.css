@@ -19,6 +19,13 @@ div.home{
 	left: 1100px;
 	top:20px;
 }
+
+div.more{
+	position: absolute;
+	left: 1150px;
+	top:20px;
+}
+
 div.image-1{ 
 		position: absolute;
 		left: 200px;
