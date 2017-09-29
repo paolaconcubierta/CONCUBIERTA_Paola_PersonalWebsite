@@ -29,6 +29,7 @@ div.msg-icon{
 	
 div.wp{
 	position: absolute;
+	padding: 8px;
 	left: 520px;
 }
 
@@ -76,7 +77,7 @@ a{
 }
 
 a:hover{
-	background-color: none;
+	background-color: black;
 	color: #953333;
 }
 
