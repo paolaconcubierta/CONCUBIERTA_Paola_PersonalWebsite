@@ -102,6 +102,11 @@ p{
 
 p.num{margin:0;}
 
+p.top{
+	position: absolute;
+	top:1626px;
+	left:1200px;
+	}
 div.me{
 	position: absolute;
 	left:640px;
